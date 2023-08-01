@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sinha</h1>
 <h3 align="center">NITK'25</h3>
 
-- 🌱 I’m currently learning **KOTLIN,C++**
 
 - 📫 How to reach me **abhisinha.610@gmail.com**
 
